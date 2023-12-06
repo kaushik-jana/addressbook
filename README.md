@@ -1,4 +1,3 @@
-This is temp and deleted
 
 Addressbook Tutorial
 ====================
